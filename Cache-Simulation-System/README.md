@@ -1,6 +1,6 @@
 # Cache Simulation System
     **Date:** 2024  
-    **Tools:** C/C++ (or Python), Make
+    **Tools:** Python
 
     ## Overview
     Configurable levels (L1/L2), associativity, line size, and replacement policy.

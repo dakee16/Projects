@@ -1,6 +1,6 @@
 # Vending Machine Simulator (Java)
     **Date:** 2024  
-    **Tools:** Java 17
+    **Tools:** Python
 
     ## Overview
     Finite-state machine for selection, payment, dispense, and change return.
