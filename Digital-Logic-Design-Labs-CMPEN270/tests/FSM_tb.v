@@ -30,13 +30,11 @@ module FSM_tb;
         rst = 0;
 
         // Example stream with overlaps: 1 0 1 1 0 1 1
-        // matches at bits [0..3] and [3..6]
         reg [6:0] bits = 7'b1011011;
         for (i = 6; i >= 0; i = i - 1) begin
             feed_bit(bits[i]);
         end
 
-        // Random-ish extra bits
         for (i = 0; i < 12; i = i + 1) begin
             feed_bit($random % 2);
         end
