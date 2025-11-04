@@ -1,4 +1,4 @@
-# Penn State Academic & Technical Projects
+# Academic & Technical Projects
 
 This repository collects **eleven** of my academic/technical projects.
 Each subfolder contains its own README with features, how to run, and lessons learned.
