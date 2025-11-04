@@ -1,0 +1,17 @@
+# Java / VSCode / macOS
+bin/
+out/
+target/
+*.class
+*.log
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+.DS_Store
+# Databases that can be generated locally (keep the seed if provided)
+database/*.db-journal
+database/*.sqlite-journal
+database/*.sqlite-shm
+database/*.sqlite-wal
