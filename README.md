@@ -1,6 +1,6 @@
 # Penn State Academic & Technical Projects
 
-This repository collects **seven** of my academic/technical projects at **Penn State University** (2023–2025).  
+This repository collects **eleven** of my academic/technical projects.
 Each subfolder contains its own README with features, how to run, and lessons learned.
 
 ## Projects
@@ -11,6 +11,10 @@ Each subfolder contains its own README with features, how to run, and lessons le
 5. **Cache Simulation System** — Multi-level cache with traces, stats, and AMAT reporting.
 6. **Vending Machine Simulator (Java)** — Finite-state machine with tests and CLI runner.
 7. **PipelineCPU (Verilog on Zybo)** — Pipelined CPU with hazards, forwarding, and testbenches.
+8. **Advanced Calculator (Python)** - Solves basic alebra using stacks, also solves polynomials
+9. **Course Scheduler (Python)** — Hardcode of PennStates' Schedule Builder
+10. **Binary Heaps (Python)** - Plays with Binary heaps, giving min_heap, max_heap
+11. **Linked List Simulator (Python)** - Singly and Doubly Linked List functionality
 
 ## Usage
 - Add your **actual source code** into each `src/` folder (placeholders are included).
@@ -48,5 +52,3 @@ __pycache__/
 build/
 dist/
 ```
-
-— Generated on 2025-11-03
